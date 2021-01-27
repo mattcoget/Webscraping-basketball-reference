@@ -56,7 +56,7 @@ Three questions were the basis of the analysis:
 
 ## Files
 * [Presentation of the project](https://docs.google.com/presentation/d/1Ai-mZfTvXBwPrxQzoZmWBExR1j0E8oJikONONBjCgnA/)
-* [Jupyter Notebook with the code](https://github.com/mattcoget/data-ft-par-labs/blob/main/Projects/Week-3/Output/WebScraping%20basketball-reference.com%2C%20Data%20Cleaning%20and%20Export%20to%20MySQL.ipynb)
-* [CSV File: Teams Performances per Year](https://github.com/mattcoget/data-ft-par-labs/blob/main/Projects/Week-3/Output/performances.csv)
-* [CSV File: Teams Stats per Year](https://github.com/mattcoget/data-ft-par-labs/blob/main/Projects/Week-3/Output/stats.csv)
-* [SQL File for the analysis](https://github.com/mattcoget/data-ft-par-labs/blob/main/Projects/Week-3/Output/basket-reference.sql)
+* [Jupyter Notebook with the code](https://github.com/mattcoget/Webscraping-basketball-reference/blob/main/WebScraping%20basketball-reference.com%2C%20Data%20Cleaning%20and%20Export%20to%20MySQL.ipynb)
+* [CSV File: Teams Performances per Year](https://github.com/mattcoget/Webscraping-basketball-reference/blob/main/output/performances.csv)
+* [CSV File: Teams Stats per Year](https://github.com/mattcoget/Webscraping-basketball-reference/blob/main/output/stats.csv)
+* [SQL File for the analysis](https://github.com/mattcoget/Webscraping-basketball-reference/blob/main/output/basket-reference.sql)
