@@ -28,7 +28,7 @@ After achieving these first two steps, the amount of datas was important, but no
 
 Two dataframes were created for this one team, with one important information about the second: as rebounds, steals, blocks and turnovers are not complete columns (those statistics weren't counted before the 70's), the creation was a litte bit more complicated with the modification during the dataframe creation with `df=pd.DataFrame.from_dict(data, orient='index').transpose()`.
 
-But as the goal is to scrap all team, it was necessary to loop into all the teams and so understand how the select all the active franchises (around 20 are defunct since the creation of the NBA).
+But as the goal is to scrap all teams, it was necessary to loop into all the teams and so understand how the select all the active franchises (around 20 are defunct since the creation of the NBA).
 After creating the two loops, all the datas have been scraped for the active teams.
 
 ### Clean DataFrame
